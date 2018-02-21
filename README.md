@@ -1,2 +1,2 @@
-# vue-apps
-A curated list of cool Vue.js apps
+[Adoratorio Studio](https://adoratorio.studio/)
+[Hypebeast](https://hypebeast.com/)
