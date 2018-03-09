@@ -1,3 +1,4 @@
 - [Adoratorio Studio](https://adoratorio.studio/)
 - [Hypebeast](https://hypebeast.com/)
 - [Baremetrics](https://baremetrics.com/)
+- [Two Twenty Two](http://twotwentytwo.se/)
